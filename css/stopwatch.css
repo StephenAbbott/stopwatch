@@ -26,3 +26,4 @@ body {
 .hidden {
   display: none; /* Hides the element that matches this rule */
 }
+<link rel="stylesheet" href="css/stopwatch.css">

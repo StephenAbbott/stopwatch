@@ -9,8 +9,8 @@
     "128": "/stopwatch/img/icons/stopwatch-128.png"
   },
   "developer": {
-    "name": "Your Name",
-    "url": "http://yourwebsite.com"
+    "name": "Steve's stopwatch",
+    "url": "http://stephenabbott.github.io/stopwatch/"
   },
   "installs_allowed_from": ["*"],
   "locales": {

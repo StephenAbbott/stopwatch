@@ -9,7 +9,6 @@ https://developer.mozilla.org/learn/css
 This is a CSS comment. Anything inside these comment symbols will be ignored
 by the browser, which is handy for adding explanations to your code!
 */
-<link rel="stylesheet" href="css/stopwatch.css">
 
 /* This is a tag selector that matches the <body> element */
 body {
